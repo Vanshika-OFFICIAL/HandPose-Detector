@@ -3,6 +3,11 @@
 This project demonstrates **real-time hand tracking and gesture recognition** using the **ml5.js Handpose model** integrated with **p5.js**.  
 It detects the hand landmarks through the webcam and classifies simple gestures like **Fist (✊), Open Palm (🖐️), and Peace (✌️)**.  
 
+##  Live Demo
+Check out the working version of this project right here:
+
+[HandPose Detector Demo](https://vanshika-official.github.io/HandPose-Detector/)
+
 ## 🚀 Features
 - Live webcam hand tracking
 - Hand landmark visualization (dots + skeleton)
