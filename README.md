@@ -24,3 +24,25 @@ It detects the hand landmarks through the webcam and classifies simple gestures 
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/handpose-gesture-detection.git
+
+2. Open index.html in a browser (or use Live Server in VS Code).
+
+3. Allow webcam access to see detection in action.
+
+📌 Future Enhancements
+
+Add more gestures (Thumbs Up, Rock, OK, etc.)
+
+Gesture-controlled drawing app
+
+Multi-hand detection
+
+Interactive games
+
+🙌 Acknowledgements
+
+p5.js
+
+ml5.js
+
+TensorFlow.js Handpose model
